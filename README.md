@@ -3,11 +3,17 @@ Python based app that plays random brainrot every 10-60s
 # Included brainrot
 Brainrot included at the moment is:
 ---Neon Sigma---
+
 ---Duolingo on Ice---
+
 ---Shinji, Crank that Soulja Boy---
+
 ---Peter Griffen is Spongebob---
+
 ---MACHINE, TURN BACK NOW---
+
 ---ATTENTION WOMEN---
+
 ---Death Whistle---
 
 
