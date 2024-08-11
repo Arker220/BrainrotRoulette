@@ -2,6 +2,7 @@
 Python based app that plays random brainrot every 10-60s
 # Included brainrot
 Brainrot included at the moment is:
+
 ---Neon Sigma---
 
 ---Duolingo on Ice---
