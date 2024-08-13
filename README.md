@@ -19,7 +19,7 @@ Brainrot included at the moment is:
 
 
 # Installation
-Have Python 3.8.8 or greater, and install either the .py file, or the .exe. Don't try sending the exe over Discord, they'll turn your message into a link to a food recipe.
+Have Python 3.8.8 or greater, **AND** VLC Media Player and install either the .py file, or the .exe. Don't try sending the exe over Discord, they'll turn your message into a link to a food recipe.
 
 # How to add custom videos
 
